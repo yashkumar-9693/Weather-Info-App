@@ -1,1 +1,1 @@
-This app fetches real- time weather from public APIs
+This app fetches real- time weather from public APIs. A simple web application that allows users to search and view real-time weather information of any city. It fetches data using a weather API and displays key details like temperature, humidity, etc.
